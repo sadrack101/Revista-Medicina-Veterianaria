@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "revistaMedVet",
+  "appName": "Login",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
